@@ -1,3 +1,13 @@
+# not to be pushed
+*copy*
+*backup*
+*legacy*
+*test*
+*.jpg
+*.mp4
+*.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
